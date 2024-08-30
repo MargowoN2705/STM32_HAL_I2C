@@ -1,0 +1,9 @@
+../Core/Src/LPS25HB.c:41:16:lps_read_reg	40	static
+../Core/Src/LPS25HB.c:49:13:lps_write_reg	32	static
+../Core/Src/LPS25HB.c:54:19:lps25hb_init	8	static
+../Core/Src/LPS25HB.c:67:7:lps25hb_read_temp	32	static
+../Core/Src/LPS25HB.c:78:7:lps25hb_read_pressure	32	static
+../Core/Src/LPS25HB.c:89:6:lps25hb_cllbrtn	16	static
+../Core/Src/LPS25HB.c:97:7:lps25hb_height	32	static
+../Core/Src/LPS25HB.c:105:7:lps25hb_autozero	32	static
+../Core/Src/LPS25HB.c:117:6:lps25hb_set_reference_pressure	40	static
